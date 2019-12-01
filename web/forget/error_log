@@ -1,0 +1,8 @@
+[30-Nov-2019 14:05:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/rulefrie/public_html/forget/forget.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rulefrie/public_html/forget/forget.php on line 9
+[30-Nov-2019 17:34:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/rulefrie/public_html/forget/forget.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rulefrie/public_html/forget/forget.php on line 9
